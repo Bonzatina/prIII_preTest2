@@ -1,0 +1,4 @@
+/home/bonez/Projects/progIII_preTest2/Model/bin/Debug/Model.dll
+/home/bonez/Projects/progIII_preTest2/Model/bin/Debug/Model.pdb
+/home/bonez/Projects/progIII_preTest2/Model/obj/Debug/Model.dll
+/home/bonez/Projects/progIII_preTest2/Model/obj/Debug/Model.pdb

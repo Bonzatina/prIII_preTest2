@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progIII_preTest2", "progIII_preTest2\progIII_preTest2.csproj", "{6E547BB7-9350-4AEB-9833-E5C35177F41C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{A51E0F41-FCA6-415D-BD74-38A19C966C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E547BB7-9350-4AEB-9833-E5C35177F41C}.Debug|x86.ActiveCfg = Debug|x86
+		{6E547BB7-9350-4AEB-9833-E5C35177F41C}.Debug|x86.Build.0 = Debug|x86
+		{6E547BB7-9350-4AEB-9833-E5C35177F41C}.Release|x86.ActiveCfg = Release|x86
+		{6E547BB7-9350-4AEB-9833-E5C35177F41C}.Release|x86.Build.0 = Release|x86
+		{A51E0F41-FCA6-415D-BD74-38A19C966C01}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A51E0F41-FCA6-415D-BD74-38A19C966C01}.Debug|x86.Build.0 = Debug|Any CPU
+		{A51E0F41-FCA6-415D-BD74-38A19C966C01}.Release|x86.ActiveCfg = Release|Any CPU
+		{A51E0F41-FCA6-415D-BD74-38A19C966C01}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

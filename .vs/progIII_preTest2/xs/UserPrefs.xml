@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6E547BB7-9350-4AEB-9833-E5C35177F41C}|Default">
+  <MonoDevelop.Ide.ItemProperties.progIII__preTest2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/Loader.cs">
+    <Files>
+      <File FileName="progIII_preTest2/Program.cs" Line="98" Column="1" />
+      <File FileName="Model/Loader.cs" Line="34" Column="2" />
+      <File FileName="progIII_preTest2/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="progIII_preTest2" expanded="True">
+            <Node name="Model" expanded="True">
+              <Node name="Loader.cs" selected="True" />
+            </Node>
+            <Node name="progIII_preTest2" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

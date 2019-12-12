@@ -1,0 +1,8 @@
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/bin/Debug/progIII_preTest2.exe
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/bin/Debug/progIII_preTest2.pdb
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/bin/Debug/Model.dll
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/bin/Debug/Model.pdb
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/obj/x86/Debug/progIII_preTest2.csprojAssemblyReference.cache
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/obj/x86/Debug/progIII_preTest2.csproj.CopyComplete
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/obj/x86/Debug/progIII_preTest2.exe
+/home/bonez/Projects/progIII_preTest2/progIII_preTest2/obj/x86/Debug/progIII_preTest2.pdb
